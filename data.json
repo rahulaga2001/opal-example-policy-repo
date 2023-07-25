@@ -21,6 +21,13 @@
         "ip": "8.8.8.8"
       }
     },
+    "rahul": {
+      "roles": ["super"],
+      "location": {
+        "country": "IND",
+        "ip": "9.9.9.9"
+      }
+    },
     "eve": {
       "roles": ["customer"],
       "location": {

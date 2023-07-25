@@ -28,6 +28,13 @@
         "ip": "9.9.9.9"
       }
     },
+    "rootpk": {
+      "roles": ["super"],
+      "location": {
+        "country": "PK",
+        "ip": "1.1.1.1"
+      }
+    },
     "eve": {
       "roles": ["customer"],
       "location": {
